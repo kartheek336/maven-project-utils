@@ -1,5 +1,5 @@
 #! /bin/bash
-age=25
+age=29
 if [ $age -ge 18 ]
 then
 	echo "eligible for vote"
